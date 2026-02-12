@@ -6,3 +6,6 @@ demo link for registration :https://jeyasanthosh355-strawhat.github.io/front-end
 
 
 demo link for responsive grid :https://jeyasanthosh355-strawhat.github.io/front-end-development-/responsive.pdf
+
+
+demo link for flex box : https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/flexbox.pdf
