@@ -9,3 +9,6 @@ demo link for responsive grid :https://jeyasanthosh355-strawhat.github.io/front-
 
 
 demo link for flex box : https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/flexbox.pdf
+
+
+demo link for college notice board - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/clgnotice.pdf
