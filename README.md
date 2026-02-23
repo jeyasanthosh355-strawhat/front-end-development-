@@ -12,3 +12,6 @@ demo link for flex box : https://github.com/jeyasanthosh355-strawhat/front-end-d
 
 
 demo link for college notice board - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/clgnotice.pdf
+
+
+demo link for login page - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/login.html
