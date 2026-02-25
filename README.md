@@ -15,3 +15,6 @@ demo link for college notice board - https://github.com/jeyasanthosh355-strawhat
 
 
 demo link for login page - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/login.html
+
+
+demo link for navigation - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/navigation.html
