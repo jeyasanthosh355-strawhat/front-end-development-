@@ -18,3 +18,5 @@ demo link for login page - https://github.com/jeyasanthosh355-strawhat/front-end
 
 
 demo link for navigation - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/navigation.html
+
+demo link for hover effect - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/index.html
