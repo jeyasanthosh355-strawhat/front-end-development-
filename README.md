@@ -23,3 +23,6 @@ demo link for hover effect - https://github.com/jeyasanthosh355-strawhat/front-e
 
 
 demo link for form validation - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/form.html
+
+
+demo link for calculator - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/calculator.html
