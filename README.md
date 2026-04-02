@@ -26,3 +26,6 @@ demo link for form validation - https://github.com/jeyasanthosh355-strawhat/fron
 
 
 demo link for calculator - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/calculator.html
+
+
+demo link for digital clock - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/digital.html
