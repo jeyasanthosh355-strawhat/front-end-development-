@@ -29,3 +29,5 @@ demo link for calculator - https://github.com/jeyasanthosh355-strawhat/front-end
 
 
 demo link for digital clock - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/digital.html
+
+demo link for to do list - https://github.com/jeyasanthosh355-strawhat/front-end-development-/blob/main/digital.html
